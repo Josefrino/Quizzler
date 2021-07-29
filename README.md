@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/Josefrino/Quizzler/blob/master/quizzler.jpg) <img src="https://github.com/favicon.ico" width="48">
+<a href="url"><img src="https://github.com/Josefrino/Quizzler/blob/master/quizzler.jpg" align="left" height="48" width="48" ></a>
 ![alt text](https://github.com/Josefrino/Quizzler/blob/master/quizzler2.jpg)
 
 ## What i learned
