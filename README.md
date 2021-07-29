@@ -16,10 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## What i learned
-..* Modularising your code into separate classes.
-..* Dart classes and objects.
-..* Using class constructors.
-..* Extracting Widgets to refactor your code.
-..* private and public modifiers in Dart.
-..* How to use Dart lists.
-..* The difference between var, const and final.
+* Modularising your code into separate classes.
+* Dart classes and objects.
+* Using class constructors.
+* Extracting Widgets to refactor your code.
+* private and public modifiers in Dart.
+* How to use Dart lists.
+* The difference between var, const and final.
