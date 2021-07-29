@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <a href="url"><img src="https://github.com/Josefrino/Quizzler/blob/master/quizzler.jpg" align="left" height="640" width="360" ></a>
-<a href="url"><img src="https://github.com/Josefrino/Quizzler/blob/master/quizzler2.jpg" align="left" height="640" width="360" ></a>
+<a href="url"><img src="https://github.com/Josefrino/Quizzler/blob/master/quizzler2.jpg" align="bottom" height="640" width="360" ></a>
 
 ## What i learned
 * Modularising my code into separate classes.
